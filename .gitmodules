@@ -1,0 +1,6 @@
+[submodule "hugo-theme-air"]
+	path = hugo-theme-air
+	url = https://github.com/syui/hugo-theme-air
+[submodule "themes/hugo-theme-shell"]
+	path = themes/hugo-theme-shell
+	url = https://github.com/syui/hugo-theme-air.git
